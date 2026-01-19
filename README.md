@@ -1,4 +1,4 @@
 # nidhiManjera
 This is my first Git Repository
 <br>
-Author - Nidhi Manjera
+Author - Nidhi (nidhiManjera)
